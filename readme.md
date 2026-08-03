@@ -1,3 +1,5 @@
+This has moved to https://codeberg.org/spectral3d/hilbert
+
 # hilbert.hpp
 
 ## Introduction
